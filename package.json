@@ -1,0 +1,26 @@
+{
+  "name": "azureproject",
+  "version": "1.0.0",
+  "description": "project for azure",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanvilabela/AzureProject.git"
+  },
+  "keywords": [
+    "dale"
+  ],
+  "author": "renan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanvilabela/AzureProject/issues"
+  },
+  "homepage": "https://github.com/renanvilabela/AzureProject#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
